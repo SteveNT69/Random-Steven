@@ -1,0 +1,29 @@
+body {
+  color: #99AAB5;
+  background-color: #23272A;
+  font-family: Comic Sans MS, Comic Sans;
+  word-break: keep-all;
+}
+a:link {
+  color: #0077ff;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #0077ff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  text-decoration: underline;
+}
+
+header {
+  color: #0077ff;
+}
